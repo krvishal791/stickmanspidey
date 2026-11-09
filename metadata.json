@@ -1,0 +1,6 @@
+{
+  "name": "Marvel Clash: 2D Arcade Fighter",
+  "description": "Two-player 2D arcade fighting game featuring Spider-Man vs. Captain America with directional attacks, aerial jump kicks, and timed special moves.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
